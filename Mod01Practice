@@ -11,3 +11,8 @@ n = int(input('Enter integar:'))
 value = n+n*n+n*n*n
 #Print value
 print(value)
+
+#Take input of home country
+country = input('What country are you from?')
+#Print response
+print('I have heard that', country, 'is a beautiful country!')
