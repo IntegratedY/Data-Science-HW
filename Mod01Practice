@@ -16,3 +16,23 @@ print(value)
 country = input('What country are you from?')
 #Print response
 print('I have heard that', country, 'is a beautiful country!')
+
+#Result of Exercise 4: Nothing prints
+
+#Exercise 5: The output of this code is [10, 20, 30, 40] [10, 20, 30, 40] (on two lines)
+#We get this result because adding to an array appends the added array and the end and the
+#+= operator adds something to the variable then sets the variable to be the new sum
+#a is also changed because by setting b to a we have both a and b point to the same term and its that term that we change
+
+#Result of Exercise 6: The output is 2.  The % operator is the remainder operator and it functions by returning whatever number 
+#remains after you evenly divide the first number by the second.  In this case 6 goes into 2 zero times and there is 2 leftover
+
+#Result of Exercise 7: The output is 216.  We use two operators here * which is multiplication and ** which is exponentials
+
+#Exercise 8: A text editor is anything like word or notepad where you can format text
+
+#Exercise 9: Python is an object oriented coding language often used in education or science oriented programming that has 
+#been referred to as almost pseudo code due to its easy readability
+
+#Exercise 10: Jupyter Notebook is an integrated developement environment that's incredibly flexible and has a useful structure 
+#data science collaboration.  I believe the environment is conda.  Some alternatives are PyCharm and Eclipse
